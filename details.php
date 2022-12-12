@@ -100,8 +100,8 @@
                         <h3 class="title">Enter Quantity:</h3>
                         <input type="number" name="txtQuantity" id="txtQuantity" class="form-control" placeholder="0" min="1" max="100" required>
                         <br>
-                        <button type="submit" name="btnProcess" class="btn btn-dark btn-lg"><i class="fa fa-check-circle"></i> Confirm Product Purchase</button>
-                        <a href="index.php" class="btn btn-danger btn-lg"><i class="fa fa-arrow-left"></i> Cancel / Go Back</a>
+                        <button type="submit" name="btnProcess" class="btn btn-dark "><i class="fa fa-check-circle"></i> Confirm Product Purchase</button>
+                        <a href="index.php" class="btn btn-danger "><i class="fa fa-arrow-left"></i> Cancel / Go Back</a>
                     </div>                                
             </div>
         </div>
