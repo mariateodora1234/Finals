@@ -22,7 +22,7 @@
             
             <div class="col-4 text-right">
                 <a href="register.php">
-                    <span class="link-light mx-1"><a href="logout.php">Log out</a></span>
+                    <span class="link-light mx-1"><a href="logout.php">Log out </a></span>
                 </a>
             
                 <a href="cart.php" class=" btn btn-primary ">
