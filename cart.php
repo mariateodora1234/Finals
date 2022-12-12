@@ -92,7 +92,7 @@
                                     <?php foreach($value as $size => $quantity): ?>
 
                                         <tr>                                        
-                                            <td><img src="img/<?php echo $arrProducts[$key]['photo1']; ?>" class="img-thumbnail" style="height: 50px;"></td>
+                                            <td><img class="pic-1" src="img/<?php echo $arrProducts[$key]['photo1']; ?>" class="img-thumbnail" style="height: 50px;"></td>
                                             <td><?php echo $recProducts['name']; ?></td>
                                             <td><?php echo $size; ?></td>
                                             <td>
